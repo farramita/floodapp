@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeModel"
+        android:enabled="true"
+        android:icon="@drawable/menu_home"
+        android:title="หน้าหลัก"
+        />
+    <item
+        android:id="@+id/floodMap"
+        android:enabled="true"
+        android:icon="@drawable/ic_map"
+        android:title="แผนที่น้ำท่วม"/>
+
+    <item
+        android:id="@+id/dam"
+        android:enabled="true"
+        android:icon="@drawable/menu_dam"
+        android:title="เขื่อน"/>
+    <item
+    android:id="@+id/rainPredict"
+    android:enabled="true"
+    android:icon="@drawable/menu_rains"
+    android:title="คาดการณ์ฝน"/>
+
+
+</menu>

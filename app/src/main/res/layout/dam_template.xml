@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="10dp"
+        app:rippleColor="@color/navy"
+        app:strokeColor="@color/navy"
+        android:outlineAmbientShadowColor="@color/navy"
+        android:orientation="vertical"
+        app:cardCornerRadius="8dp"
+        android:padding="5dp"
+        app:cardBackgroundColor="@color/white">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/damName"
+                    android:layout_width="185dp"
+                    android:layout_height="39dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="1dp"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:text="เขื่อนภูมิพล"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/unit"
+                    android:layout_width="150dp"
+                    android:layout_height="25dp"
+                    android:layout_marginStart="11dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginTop="7dp"
+                    android:text="หน่วย: ล้าน.ลบ.ม."
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:textColor="@color/gray"
+                    android:textSize="15sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="71dp">
+
+                <TextView
+                    android:id="@+id/damValue"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="44dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:text="น้ำกักเก็บ"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:textColor="@color/purple"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/damValueC"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="44dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:text="น้ำใช้การ"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:textColor="@color/purple"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/damFlow"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="44dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:text="น้ำไหลลง"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:textColor="@color/purple"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/damDrain"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="44dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:text="น้ำระบาย"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:textColor="@color/purple"
+                    android:textSize="15sp" />
+
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/damValue1"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="75dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:text="7,340.36"
+                    android:textAlignment="center"
+                    android:textColor="@color/navy"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/damValue2"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="75dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:text="7,340.36"
+                    android:textAlignment="center"
+                    android:textColor="@color/navy"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/damValue3"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="75dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:text="0.36"
+                    android:textAlignment="center"
+                    android:textColor="@color/navy"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/damValue4"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="75dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:text="19"
+                    android:textAlignment="center"
+                    android:textColor="@color/navy"
+                    android:textSize="15sp" />
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/damValue5"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="105dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:text="55%"
+                    android:textAlignment="center"
+                    android:textColor="@color/navy2"
+                    android:textSize="15sp" />
+
+
+                <TextView
+                    android:id="@+id/damValue6"
+                    android:layout_width="70dp"
+                    android:layout_height="23dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="105dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:text="26.3%"
+                    android:textAlignment="center"
+                    android:textColor="@color/navy2"
+                    android:textSize="15sp" />
+
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

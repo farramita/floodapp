@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildAttributionWarningsFilter">
+    <option name="noGCSettingWarning" value="true" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AA-NamWhan/A_CWW/FLOODMAP_1503/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/detailmap_template.xml" value="0.264" />
+        <entry key="..\:/AA-NamWhan/A_CWW/FLOODMAP_1503/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/fragment_flood_map.xml" value="0.3009833262077811" />
+        <entry key="..\:/AA-NamWhan/A_CWW/FLOODMAP_15_FEB_2020/FLOODMAP/app/src/main/res/layout/dam_template.xml" value="0.4" />
+        <entry key="..\:/AA-NamWhan/A_CWW/FLOODMAP_15_FEB_2020/FLOODMAP/app/src/main/res/layout/fragment_dam.xml" value="0.1947463768115942" />
+        <entry key="..\:/AA-NamWhan/A_CWW/FLOODMAP_15_FEB_2020/FLOODMAP/app/src/main/res/layout/rain_template.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/drawable/ic_baseline_profile_24.xml" value="0.2703125" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/drawable/ic_settings.xml" value="0.2703125" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/drawable/tab_color.xml" value="0.2703125" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/activity_main.xml" value="0.1716485507246377" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_1_home_model.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_2_flood_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_3_rain_predict.xml" value="0.24010416666666667" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_4_dam.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_flood_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_home_model.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_main_app.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_splashscreen.xml" value="0.1431159420289855" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRO/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRONEW/CWWPRO/app/src/main/res/drawable/tab_color.xml" value="0.2703125" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRONEW/CWWPRO/app/src/main/res/layout/activity_main.xml" value="0.2477355072463768" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/CWWPRONEW/CWWPRO/app/src/main/res/layout/fragment_main_app.xml" value="0.2477355072463768" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/drawable-hdpi/bottomlayout.xml" value="0.2703125" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/drawable/tab_color.xml" value="0.2703125" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/layout/dam_template.xml" value="0.264" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_dam.xml" value="0.2" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_home_model.xml" value="0.264" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_main_app.xml" value="0.2028985507246377" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_rain_predict.xml" value="0.25416666666666665" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_setting_cww.xml" value="0.2089041095890411" />
+        <entry key="..\:/AA-NamWhan/CWWPRO/FLOODMAP_24_01_22/FLOODMAP/FLOODMAP/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/drawable-xhdpi/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/drawable-xhdpi/ic_launcher_foreground.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/drawable/ic_baseline_food_home_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/layout/activity_main.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_dam.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_flood_map.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_home_model.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_main_app.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_rain_predict.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/layout/fragment_splashscreen.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/layout/progress.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CWWPRO/CWWPRO/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/FLOODMAP/app/src/main/res/drawable-hdpi/bottomlayout.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_dam.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_flood_map.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_home_model.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/FLOODMAP/app/src/main/res/layout/fragment_rain_predict.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/app/src/main/res/layout/fragment_dam.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/app/src/main/res/layout/fragment_flood_map.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/app/src/main/res/layout/fragment_home_model.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/app/src/main/res/layout/fragment_rain_predict.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/app/src/main/res/layout/fragment_setting_cww.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP/app/src/main/res/layout/fragment_splashscreen.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_16-06-22/FLOODMAP/app/src/main/res/layout/dam_template.xml" value="0.294570329200513" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_16-06-22/FLOODMAP/app/src/main/res/layout/detailmap_template.xml" value="0.2932910244786945" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_16-06-22/FLOODMAP/app/src/main/res/layout/fragment_flood_map.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_16-06-22/FLOODMAP/app/src/main/res/layout/fragment_home_model.xml" value="0.1452152110321772" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_16-06-22/FLOODMAP/app/src/main/res/layout/fragment_rain_predict.xml" value="0.2692656391659112" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_16-06-22/FLOODMAP/app/src/main/res/layout/fragment_splashscreen.xml" value="0.294570329200513" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_16-06-22/FLOODMAP/app/src/main/res/layout/model_template.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_16-06-22/FLOODMAP/app/src/main/res/layout/rain_template.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/drawable-xhdpi/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/drawable-xxxhdpi/ic_baseline_search_24.xml" value="0.1715" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/drawable-xxxhdpi/round_corner.xml" value="0.1715" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1405" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/drawable/tab_color.xml" value="0.2305" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/activity_main.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/dam_template.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/fragment_dam.xml" value="0.18209408194233687" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/fragment_home_model.xml" value="0.2844574780058651" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/fragment_rain_predict.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/fragment_setting_cww.xml" value="0.152" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/fragment_splashscreen.xml" value="0.18209408194233687" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/model_template.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/notification.xml" value="0.45941807044410415" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/layout/rain_template.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2555" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.226" />
+        <entry key="..\:/Users/Asus/Downloads/FLOODMAP_18-02-2022/FLOODMAP/app/src/main/res/xml/pref_settings.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/aunch/AndroidStudioProjects/CWWPRO/app/src/main/res/layout/fragment_flood_map.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/aunch/AndroidStudioProjects/CWWPRO/app/src/main/res/layout/fragment_home_model.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/aunch/AndroidStudioProjects/CWWPRO/app/src/main/res/layout/fragment_main_app.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/aunch/AndroidStudioProjects/CWWPRO/app/src/main/res/layout/fragment_rain_predict.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/aunch/AndroidStudioProjects/CWWPRO/app/src/main/res/layout/fragment_setting_cww.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/aunch/AndroidStudioProjects/CWWPRO/app/src/main/res/layout/fragment_splashscreen.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/drawable/tab_color.xml" value="0.2703125" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/font/ekkamai.xml" value="0.284375" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/font/mali_family.xml" value="0.284375" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/font/prajad.xml" value="0.22962962962962963" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/font/yaldevi_colombo.xml" value="0.284375" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/layout/dam_template.xml" value="0.2" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/layout/fragment_dam.xml" value="0.2" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/layout/fragment_home_model.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/layout/fragment_main_app.xml" value="0.25" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/layout/fragment_rain_predict.xml" value="0.264" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/layout/fragment_setting_cww.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/layout/fragment_splashscreen.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/aunch/Downloads/FLOODMAP/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

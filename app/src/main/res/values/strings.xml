@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Chaophraya Water Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="pref_title_notifications">Notifications</string>
+    <string name="key_notifications_new_message">notifications_new_message</string>
+    <string name="title_new_notification_sound">New message notification</string>
+    <string name="key_vibrate">key_vibrate</string>
+    <string name="summary_vibrate">Vibrate on new notification</string>
+    <string name="title_vibrate">Vibrate</string>
+    <string name="pref_header_about">About</string>
+    <string name="summary_about">Cww team</string>
+    <string name="app_version">5.5</string>
+    <string name="title_version">Version</string>
+
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="summary_support">Questions? Concerns? Send us feedback!</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="my_url_support">https://github.com/manit123001</string>
+
+    <string name="summary_faq">View frequently asked questions</string>
+    <string name="title_faq">FAQ</string>
+
+    <string name="url_faq">https://github.com/manit123001</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="url_privacy">https://github.com/manit123001</string>
+
+    <string name="title_terms">Terms &amp; Conditions</string>
+    <string name="url_terms">https://github.com/manit123001</string>
+    <string name="text_menu_setting">Settings</string>
+    <string name="location_permission_denied" />
+
+</resources>

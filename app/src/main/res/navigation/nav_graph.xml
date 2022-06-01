@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainAppFragment">
+
+    <fragment
+        android:id="@+id/splashscreen"
+        android:name="com.example.CWWPRO.splashscreen"
+        android:label="fragment_splashscreen"
+        tools:layout="@layout/fragment_splashscreen" />
+    <fragment
+        android:id="@+id/floodMap"
+        android:name="com.example.CWWPRO.FloodMap"
+        android:label="fragment_2_flood_map"
+        tools:layout="@layout/fragment_flood_map" />
+    <fragment
+        android:id="@+id/rainPredict"
+        android:name="com.example.CWWPRO.RainPredict"
+        android:label="fragment_3_rain_predict"
+        tools:layout="@layout/fragment_rain_predict" />
+    <fragment
+        android:id="@+id/dam"
+        android:name="com.example.CWWPRO.Dam"
+        android:label="fragment_4_dam"
+        tools:layout="@layout/fragment_dam" />
+    <fragment
+        android:id="@+id/homeModel3"
+        android:name="com.example.CWWPRO.HomeModel"
+        android:label="fragment_home_model"
+        tools:layout="@layout/fragment_home_model" />
+    <fragment
+        android:id="@+id/mainAppFragment"
+        android:name="com.example.CWWPRO.MainAppFragment"
+        android:label="fragment_main_app"
+        tools:layout="@layout/fragment_main_app" />
+
+</navigation>

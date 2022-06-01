@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364856166199",
+    "project_id": "cwwp-ecf89",
+    "storage_bucket": "cwwp-ecf89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364856166199:android:44eb63810adb301528bcb2",
+        "android_client_info": {
+          "package_name": "com.example.CWWPRO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364856166199-ig2lccc25of5p411jihver0sisp5gkmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgKnjZN7HLqmSzs6tPoPZBVOQS8KDUP24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364856166199-ig2lccc25of5p411jihver0sisp5gkmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/wave">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/modeltoday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/ekkamai_regular"
+                android:layout_marginTop="5dp"
+                android:layout_gravity="center_horizontal"
+                android:text="20 มกราคม 2565"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/navy">
+
+            </TextView>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <me.itangqi.waveloadingview.WaveLoadingView
+                android:id="@+id/waterLevelView"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
+                android:layout_marginTop="25dp"
+                android:layout_gravity="center_horizontal"
+                app:wlv_borderColor="@color/navy"
+                app:wlv_borderWidth="6dp"
+                app:wlv_progressValue="35"
+                app:wlv_round_rectangle="true"
+                app:wlv_shapeType="circle"
+                app:wlv_titleCenterColor="@color/colorWhite"
+                app:wlv_titleCenterSize="45sp"
+                app:wlv_titleCenterStrokeColor="@android:color/holo_blue_dark"
+                app:wlv_titleCenterStrokeWidth="3dp"
+                app:wlv_triangle_direction="north"
+                app:wlv_waveAmplitude="20"
+                app:wlv_waveColor="@color/white"
+                tools:ignore="MissingClass"
+                tools:layout_editor_absoluteY="444dp" />
+
+            <TextView
+                android:id="@+id/modeloutput"
+                android:layout_width="97dp"
+                android:layout_height="41dp"
+                android:fontFamily="@font/ekkamai_bold"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="-115dp"
+                android:text="ไม่ท่วม"
+                android:textAlignment="center"
+                android:textColor="@color/navy"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="33dp"
+                android:layout_height="36dp"
+                android:src="@drawable/location">
+
+            </ImageView>
+
+                <TextView
+                    android:id="@+id/modeldis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="38dp"
+                    android:fontFamily="@font/ekkamai_bold"
+                    android:layout_gravity="center_horizontal"
+                    android:text="บางบาล"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorBlue"
+                    android:textSize="20sp"
+                    android:textStyle="bold">
+
+                </TextView>
+
+
+            </LinearLayout>
+
+            <TextView
+            android:id="@+id/modelprovince"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:fontFamily="@font/ekkamai_bold"
+            android:layout_gravity="center_horizontal"
+            android:text="พระนครศรีอยุธยา"
+            android:textAlignment="center"
+            android:textColor="@color/colorBlue"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/bottomlayout"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="1dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                    <TextView
+                        android:id="@+id/modelday1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:fontFamily="@font/ekkamai_bold"
+                        android:textSize="15dp"
+                        android:text="26 กุมภาพันธ์ 2565"
+                        android:textColor="@color/navy" />
+
+                    <ImageView
+                        android:id="@+id/modelpic1"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/noflood"/>
+
+                    <TextView
+                        android:id="@+id/modelout1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:textSize="15dp"
+                        android:text="ไม่ท่วม"
+                        android:textColor="@color/navy" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                    <TextView
+                        android:id="@+id/modelday2"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:textSize="15dp"
+                        android:fontFamily="@font/ekkamai_bold"
+                        android:text="27 กุมภาพันธ์ 2565"
+                        android:textColor="@color/navy" />
+
+                    <ImageView
+                        android:id="@+id/modelpic2"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/noflood"/>
+
+                    <TextView
+                        android:id="@+id/modelout2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:textSize="15dp"
+                        android:text="ไม่ท่วม"
+                        android:textColor="@color/navy" />
+
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:weightSum="4">
+
+                    <TextView
+                        android:id="@+id/modelday3"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="1dp"
+                        android:layout_weight="1"
+                        android:fontFamily="@font/ekkamai_bold"
+                        android:textSize="15dp"
+                        android:text="28 กุมภาพันธ์ 2565"
+                        android:textColor="@color/navy" />
+
+                    <ImageView
+                        android:id="@+id/modelpic3"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/noflood" />
+
+                    <TextView
+                        android:id="@+id/modelout3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="1dp"
+                        android:layout_weight="1"
+                        android:textSize="15dp"
+                        android:text="ไม่ท่วม"
+                        android:textColor="@color/navy" />
+
+                </LinearLayout>
+                </LinearLayout>
+
+        </LinearLayout>
+
+</LinearLayout>
